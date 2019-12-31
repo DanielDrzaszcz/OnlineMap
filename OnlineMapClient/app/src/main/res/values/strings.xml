@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Online Map Client</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="getMapButton">Pobierz\nminiaturę</string>
+    <string name="getMapByPixButton">Pobierz\nzakres</string>
+</resources>
